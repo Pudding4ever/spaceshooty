@@ -1,9 +1,8 @@
 {
     "name": "comp397-f2017-mailpilotdemo",
-    "version": "1.0",
+    "version": "1.0.0",
     "main": "",
     "scripts": {
-      "test": ""
     },
     "repository": {
       "type": "git",
@@ -12,7 +11,10 @@
     "author": "Tom Tsiliopoulos",
     "license": "MIT",
     "description": "COMP397 - F2017 - Mail Pilot Demo",
-    "dependencies": {},
+    "dependencies": {  "@types/easeljs": "^0.8.36",
+        "@types/preloadjs": "^0.6.32",
+        "@types/soundjs": "^0.6.27",
+        "@types/tweenjs": "^0.6.27"},
     "devDependencies": {
       "@types/easeljs": "^0.8.36",
       "@types/preloadjs": "^0.6.32",
