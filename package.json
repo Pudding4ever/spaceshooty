@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "main": "",
     "scripts": {
-        "start": "Scripts/core/game.js"
+        "start": "./Scripts/core/game.js"
     },
     "repository": {
       "type": "git",
