@@ -16,6 +16,8 @@
         "chmod": "^0.2.1",
         "createjs": "^1.0.1",
         "easeljs": "^1.0.2",
+        "http-server": "^0.11.1",
+        "node.js": "0.0.0",
         "preloadjs": "^1.0.1",
         "soundjs": "^1.0.1",
         "tweenjs": "^1.0.2",
