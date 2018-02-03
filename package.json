@@ -1,5 +1,5 @@
 {
-    "name": "comp397-f2017-mailpilotdemo",
+    "name": "spaceshoot",
     "version": "1.0.0",
     "main": "",
     "scripts": {
@@ -7,11 +7,11 @@
     },
     "repository": {
       "type": "git",
-      "url": "https://github.com/tsiliopoulos/COMP397-F2017-MailPilotDemo.git"
+      "url": ""
     },
-    "author": "Tom Tsiliopoulos",
+    "author": "DKC",
     "license": "MIT",
-    "description": "COMP397 - F2017 - Mail Pilot Demo",
+    "description": "COMP397 shootybang",
     "dependencies":{ 
         "createjs": "^1.0.1",
         "easeljs": "^1.0.2",
