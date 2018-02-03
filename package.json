@@ -3,7 +3,10 @@
     "version": "1.0.0",
     "main": "",
     "scripts": {
-        "start": "sh Scripts/core/game.js"
+        "start": [ 
+        "chmod a+x Scripts/core/game.js",
+        "sh Scripts/core/game.js" 
+    ]
     },
     "repository": {
       "type": "git",
