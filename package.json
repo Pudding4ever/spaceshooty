@@ -16,7 +16,7 @@
     "SoundJS": "^0.6.2",
     "EaselJS": "^0.8.2",
     "PreloadJS": "^0.6.2",
-    "TweenJS": "^0.6.2"
+    "TweenJS": "16.6.0"
     },
     "devDependencies": {
       "@types/easeljs": "^0.8.36",
