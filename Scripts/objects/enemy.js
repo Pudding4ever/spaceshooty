@@ -92,10 +92,10 @@ var objects;
             configurable: true
         });
         enemy.prototype._initialize = function (imageString) {
-            this.e = new createjs.Bitmap("Assets/images/eship.png");
-            this.e2 = new createjs.Bitmap("Assets/images/eship2.png");
-            this.e3 = new createjs.Bitmap("Assets/images/eship3.png");
-            this.b = new createjs.Bitmap("Assets/images/spacedragon.png");
+            this.e = new createjs.Bitmap("spaceshooty/Assets/images/eship.png");
+            this.e2 = new createjs.Bitmap("spaceshooty/Assets/images/eship2.png");
+            this.e3 = new createjs.Bitmap("spaceshooty/Assets/images/eship3.png");
+            this.b = new createjs.Bitmap("spaceshooty/Assets/images/spacedragon.png");
             this.name = imageString;
             this.width = this.getBounds().width;
             this.height = this.getBounds().height;
