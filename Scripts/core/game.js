@@ -17,7 +17,7 @@ var core;
     var ExitGame;
     // asset manifest for images and sounds
     var assetData = [
-        { id: "starfield", src: "spaceshooty/Assets/images/starfield.gif" },
+        { id: "starfield", src: "Assets/images/starfield.gif" },
         { id: "nebula", src: "Assets/images/nebula.png" },
         { id: "player", src: "Assets/images/player.gif" },
         { id: "pstarfield", src: "Assets/images/parallaxstarfield.gif" },
